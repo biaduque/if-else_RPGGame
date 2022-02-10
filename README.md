@@ -18,9 +18,6 @@ Jogo de RPG criado para o auxílio do estudo de algoritmos e programação com o
          </sub>
        </a>
      </td>
-  </tr>
-  
-  <tr>
       <td align="center">
        <a href="https://github.com/joaobelforti">
          <img src="https://avatars.githubusercontent.com/u/70381566?v=4" height="auto" width="100" style="corner-radius:50%" alt="Foto de perfil do GitHub do João Pedro"/>          <br>
